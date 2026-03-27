@@ -16,7 +16,7 @@ focused on transforming raw data into clear, actionable insights.
 |---|---|---|
 | [Fandango Rating Analysis](https://github.com/YOUR_USERNAME/Fandango-Analysis) | Recreating the FiveThirtyEight investigation into Fandango's inflated movie ratings | Python, Pandas, Seaborn |
 | [Sales Data Analysis](https://github.com/adamsami-62/Sales-Data-Analysis) | Exploring and visualizing retail sales data from a superstore dataset | SQL, Tableau |
-
+| [Toronto Bike Share Analysis](https://github.com/adamsami-62/Toronto-Bike-Share-Analysis) | Cleaning and analyzing Toronto Bike Share ridership data using Python and Tableau | Python, Pandas, Tableau |
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/adamsami/
 - Email: adamwaleedsami@gmail.com
